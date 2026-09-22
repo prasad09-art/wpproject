@@ -11,98 +11,98 @@ const songs = [
     {
         name: "Samjhawan",
         artist: "Arijit Singh",
-        file: "music/song1.mp3",
+        file: "song1.mp3",
         cover: "🎶"
     },
 
     {
         name: "Bairan",
         artist: "TuneFlow",
-        file: "music/song2.mp3",
+        file: "song2.mp3",
         cover: "🎵"
     },
 
     {
         name: "Kabhi Kabhi Aditi",
         artist: "Rashid Ali",
-        file: "music/song3.mp3",
+        file: "song3.mp3",
         cover: "☀️"
     },
 
     {
         name: "Hood Life",
         artist: "TuneFlow",
-        file: "music/song4.mp3",
+        file: "song4.mp3",
         cover: "🔥"
     },
 
     {
         name: "Inkem Inkem Inkem Kaavaale",
         artist: "Sid Sriram",
-        file: "music/song5.mp3",
+        file: "song5.mp3",
         cover: "🎵"
     },
 
     {
         name: "Vachindamma",
         artist: "Sid Sriram",
-        file: "music/song6.mp3",
+        file: "song6.mp3",
         cover: "💙"
     },
 
     {
         name: "Lalbaugcha Raja",
         artist: "TuneFlow",
-        file: "music/song7.mp3",
+        file: "song7.mp3",
         cover: "🙏"
     },
 
     {
         name: "Kaakan",
         artist: "TuneFlow",
-        file: "music/song8.mp3",
+        file: "song8.mp3",
         cover: "🎶"
     },
 
     {
         name: "Navasachi Gauri Mazi",
         artist: "TuneFlow",
-        file: "music/song9.mp3",
+        file: "song9.mp3",
         cover: "🌺"
     },
 
     {
         name: "Arz Kiya Hai",
         artist: "Coke Studio Bharat",
-        file: "music/song10.mp3",
+        file: "song10.mp3",
         cover: "🎤"
     },
 
     {
         name: "Man Dhaga Dhaga",
         artist: "TuneFlow",
-        file: "music/song11.mp3",
+        file: "song11.mp3",
         cover: "🧵"
     },
 
     {
         name: "Ishq Hai",
         artist: "TuneFlow",
-        file: "music/song12.mp3",
+        file: "song12.mp3",
         cover: "❤️"
     },
 
     {
         name: "Ganpati Aale",
         artist: "TuneFlow",
-        file: "music/song13.mp3",
+        file: "song13.mp3",
         cover: "🙏"
     },
 
     {
         name: "Perfect",
         artist: "Ed Sheeran",
-        file: "music/song14.mp3",
+        file: "song14.mp3",
         cover: "💙"
     }
 
